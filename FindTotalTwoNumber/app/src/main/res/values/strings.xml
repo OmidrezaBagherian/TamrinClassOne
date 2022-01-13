@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FindTotalTwoNumber</string>
+    <string name="text_findTotal_findTotalNumber">پیدا کردن مجموع دو عددی</string>
+    <string name="text_findTotal_numbers">مجموع اعداد رو وارد کنید</string>
+    <string name="text_findTotal_number">عدد حاصل را وارد کنید</string>
+    <string name="text_findTotal_calcNumber">محاسبه</string>
+</resources>
